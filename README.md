@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Business Intelligence | Analytics | Business Development
 --------------------------------------------------------
 
-A Business Intelligence Specialist with 12+ years of experience, during that time I gained knowledge using many BI tools like Tableau, Power BI, Excel, Access, Python, Snowflake, SQL ... My expertise lies in developing analyses related to healthcare market trends, leveraging public and official data sources across LATAM and EMEA.
+I've spent over 12 years honing my skills in Business Intelligence. I'm well-versed in a variety of BI tools like Python, Power BI, Tableau, and SQL databases. My passion for learning keeps me buried in books and courses, always seeking the newest developments in the field. I'm excited to apply my expertise to tackle fresh challenges and craft innovative, data-driven solutions. 
 
 * 🌍  I'm based in Watford - UK
 * 🖥️  See my portfolio at [Github](http://github.com/HACN85?tab=repositories)
