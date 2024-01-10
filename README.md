@@ -11,7 +11,7 @@ I've spent over 12 years honing my skills in Business Intelligence. I'm well-ver
 * ✉️  You can contact me at [herbert.a.nascimento@gmail.com](mailto:herbert.a.nascimento@gmail.com)
 * 🚀  I'm currently working on [MyCV](http://herbertcv.streamlit.app)
 * 🧠  I'm learning python
-* 🤝  I'm open to collaborating on PBI, Excel and Python (Why not ?)
+* 🤝  I'm open to collaborating on PBI, Excel, SQL and Python (Why not ?)
 * ⚡  Anything Else ? No
 
 ### Skills
